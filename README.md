@@ -20,13 +20,17 @@ Try with Expo: https://expo.io/@antonkalinin/react-native-image-viewing
 ## Installation
 
 ```bash
-yarn add react-native-image-viewing
+yarn add github:boyhy1802/react-native-image-viewing
+yarn add react-native-fast-image
+cd ios && pod install
 ```
 
 or
 
 ```bash
-npm install --save react-native-image-viewing
+npm install --save github:boyhy1802/react-native-image-viewing
+npm install --save react-native-fast-image
+cd ios && pod install
 ```
 
 ## Usage
