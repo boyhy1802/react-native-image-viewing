@@ -6,8 +6,7 @@
  *
  */
 import React, { useCallback, useEffect } from "react";
-import { Animated, Dimensions, StyleSheet, View, VirtualizedList } from "react-native";
-import Modal from "./components/Modal/Modal";
+import { Animated, Dimensions, StyleSheet, View, VirtualizedList, Modal } from "react-native";
 import ImageItem from "./components/ImageItem/ImageItem";
 import ImageDefaultHeader from "./components/ImageDefaultHeader";
 import useAnimatedComponents from "./hooks/useAnimatedComponents";
